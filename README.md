@@ -3,7 +3,7 @@ OmegaLinux is a Arch based linux distro, that uses LXDE and is meant to be insta
 
 Download: https://github.com/omega-linux/page/releases/latest
 
-<img width="1653" height="931" alt="image" src="https://github.com/user-attachments/assets/e2adf423-156b-47b4-9528-d2b809775a07" />
+<img width="1258" height="943" alt="image" src="https://github.com/user-attachments/assets/dbff7c12-9cc7-4557-8eec-57eb8ade0ac3" />
 It was before a lubuntu respin, but after canonical started doing pretty questionable decisions, i decided to move on and rebase from scratch OmegaLinux to Arch Linux
 
 # OmegaLinux can work on:
