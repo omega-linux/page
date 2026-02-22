@@ -1,2 +1,23 @@
-# page
-main page to download omegalinux, decided it would be simple MD files instead of a full feature web page written in HTML or something else
+# OmegaLinux - rehydrate your PC
+OmegaLinux is a Arch based linux distro, that uses LXDE and is meant to be installed on low cost, low end and old hardware and is lighter than other OSes.
+
+Download: https://github.com/omega-linux/page/releases/latest
+
+<img width="1653" height="931" alt="image" src="https://github.com/user-attachments/assets/e2adf423-156b-47b4-9528-d2b809775a07" />
+It was before a lubuntu respin, but after canonical started doing pretty questionable decisions, i decided to move on and rebase from scratch OmegaLinux to Arch Linux
+
+# OmegaLinux can work on:
+- 1 GB of ram
+- 1 core CPU at 1.5 GHz
+- 15 GB of storage (hdd,ssd,emmc,etc)
+
+# OmegaLinux was tested on:
+- QEMU virtual machine with 2 gb of ram
+- VMware workstation with 1.5 gb ram
+- 2018 Lenovo laptop with AMD A6 9225, pretty shii CPU, both 4 and 2 gb of ram
+- 2014 HP laptop with I3 3110M and 8 gb of ram
+- Tablet with intel atom and 2 gb ram
+- Desktop PC with I3 12100f and RTX 3050
+and ran nicely on them (but of course it will depend on what you will use it for)
+
+If you find any issues feel free to open one in the issues tab of this exact repository (https://github.com/omega-linux/page/issues)
