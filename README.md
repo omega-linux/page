@@ -21,3 +21,4 @@ It was before a lubuntu respin, but after canonical started doing pretty questio
 and ran nicely on them (but of course it will depend on what you will use it for)
 
 If you find any issues feel free to open one in the issues tab of this exact repository (https://github.com/omega-linux/page/issues)
+If you want to try to get support, or just chat with people and get updates and yapping you may want to join my group: @pixelsotandroms (telegram)
