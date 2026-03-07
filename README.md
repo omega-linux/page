@@ -1,7 +1,7 @@
 # OmegaLinux - rehydrate your PC
 OmegaLinux is a Arch based linux distro, that uses LXDE and is meant to be installed on low cost, low end and old hardware and is lighter than other OSes.
 
-Download: https://github.com/omega-linux/page/releases/latest
+Download: [Here](https://github.com/omega-linux/page/releases/latest)
 
 <img width="1258" height="943" alt="image" src="https://github.com/user-attachments/assets/dbff7c12-9cc7-4557-8eec-57eb8ade0ac3" />
 It was before a lubuntu respin, but after canonical started doing pretty questionable decisions, i decided to move on and rebase from scratch OmegaLinux to Arch Linux
