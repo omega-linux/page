@@ -2,9 +2,7 @@
 OmegaLinux is a Ubuntu based linux distro, that uses LXDE and is meant to be installed on low cost, low end and old hardware and is lighter than other OSes.
 
 Download: [Here](https://github.com/omega-linux/releases/releases/latest)
-<img width="1715" height="916" alt="image" src="https://github.com/user-attachments/assets/39352058-ea3c-4214-802c-ec99860f4483" />
-
-
+<img width="1316" height="985" alt="image" src="https://github.com/user-attachments/assets/b1d7157c-3330-429b-aef2-ff0c732dd055" />
 note: moved back to lubuntu base because of issues
 
 # OmegaLinux can work on:
