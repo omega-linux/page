@@ -11,6 +11,7 @@ note: moved back to lubuntu base because of issues
 - 1 GB of ram
 - 1 core CPU at 1.6 GHz
 - 15 GB of storage (hdd,ssd,emmc,etc)
+
 (this was an aproximation before tbh but now its pretty accurate since i actually tested this on a netbook)
 
 # OmegaLinux was tested on:
