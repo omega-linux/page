@@ -3,7 +3,7 @@ OmegaLinux is a Ubuntu based linux distro, that uses LXDE and is meant to be ins
 
 Download: [Here](https://github.com/omega-linux/releases/releases/latest)
 <img width="1316" height="985" alt="image" src="https://github.com/user-attachments/assets/b1d7157c-3330-429b-aef2-ff0c732dd055" />
-note: moved back to lubuntu base because of issues
+note: moved back to lubuntu base because of issues, there is still a little chance arch base can come back
 
 # OmegaLinux can work on:
 - 1 GB of ram
